@@ -1,0 +1,17 @@
+Terraform : Majorly received the below questions.
+
+1) Why Terraform.
+2) What stacks you created using Terraform and explan the complete structures.
+3) What is data functions in Terraform. Provide some example.
+4) How you secure the user credentials in Terraform.
+5) What is the best practices you followed for Terraform.
+6) What is Lock-state and how you overcome that.
+7) How you you implement Terraform in CI/CD.
+8) Where you maintain the tfstate? and what for?
+10) Local provisoner vs Remote Provisoners. 
+11) Breif about your approach in Terraform. (Terraform,Packers,Ansible and Jenkins)
+12) How you create reusable terraform scripts which can be use for other accounts?
+13) What is Modules in Terraform.
+14) What are trouble shootings you have done in Terraform
+15) What is tfvars files? Why we need to use it. 
+16) Difference between Terraform and Cloud formation.
