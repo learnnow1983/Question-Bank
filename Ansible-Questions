@@ -1,0 +1,11 @@
+Ansible: 
+
+1) Diff between Ansible and other configuration tools. 
+2) Why Ansible? What can be done by using Ansible in on premis and cloud? Examples.
+3) What is Roles in Ansible and Scenario? 
+4) How Ansible Tower is working? 
+5) Where you maintain the codes? How you will integrade this with CI/CD ?
+6) Explain how you copy the content to remove and edit it?
+7) How you enable the error handling in Ansible and scenario.
+8) How you will redirect the output of the playbook.
+9) Example for the FOR loops and contional playbooks.
