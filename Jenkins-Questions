@@ -1,0 +1,7 @@
+1) What do you prefer Declaritive or Scripted Pipeline? What is the difference?
+2) Explain the structre of the Scripted Pipeline? 
+3) How you integrade Docker in the scripted Pipeline?
+4) Explain the complete pipeline strucuture and where you used? 
+5) How the testing has been done when you used Jenikins pipeline? Is that automated? What tools you used to do the code testings? 
+6) How do you integrate SCM in CI/CD.
+7) How you enable the webooks in Git.
