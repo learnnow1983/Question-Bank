@@ -1,0 +1,13 @@
+Kubernetes:
+
+1) Structure of the HA setup in Kube.
+2) Diff between Swarm,K8,EKS and ECS.
+3) Why we need to have seperate controller server?
+4) What are the components available in K8 master and explain.
+5) How to enable the cluster networking in K8.
+6) Why we moving to K8?
+7) What are the objects in K8 Yaml file?
+8) Structure of the K8 yaml file.
+9) How to enable zero down time in K8.
+10) What is rolling update?
+11) Difference between POD/Container/Service/Deployments
