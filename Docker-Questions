@@ -1,0 +1,16 @@
+
+Docker:
+
+1) Diff between Docker and Vmware.
+2) How you assign dedicated CIDR for containers.
+3) How you retain the volumes after deletion of containers as well.
+4) How you maintain the communication between the microservices which you launched in Docker.
+5) Explain the elements of the Docker file.
+6) Difference between CMD and ENTRYPOINT.
+7) How you execute the commands on the running container.
+8) How you enable version control for the images.
+9) Difference between Dockerfile and Compose files. 
+10) Diff between docker create and docker run.
+11) How to identify the IP addrs details for the running container.
+12) How to remove all stopped container.
+13) How to remove unused images.
